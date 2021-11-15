@@ -2,9 +2,39 @@
     "users": [
         {
             "id": 1,
-            "name": "Leanne Graham",
-            "username": "Bret",
-            "email": "leanne.graham@mail.com"
+            "role": "Driver",
+            "name": "احمد عبد البر محمود",
+            "password": "11111111111111",
+            "phoneNumber": "01000000000"
+        },
+        {
+            "id": 2,
+            "role": "Driver",
+            "name": "محمود احمد محمد",
+            "password": "22222222222222",
+            "phoneNumber": "01111111111"
+        },
+        {
+            "id": 3,
+            "role": "Courier",
+            "name": "احمد عبد البر محمود",
+            "password": "22222222222222",
+            "phoneNumber": "01111111111"
         }
-    ]
+    ],
+    "orders": [
+        {
+            "id": 1,
+            "userId": 3,
+            "status": "new",
+            "factoryName": "مصنع موبكو لانتاج الاسمدة",
+            "factoryNumber": "01500000000",
+            "factoryAddress": {
+                "lat": "30.082923505665722",
+                "lng": "31.345921569577605"
+            },
+            "numberOfUnits": 300
+        }
+    ],
+    "bills": []
 }
