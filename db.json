@@ -4,6 +4,7 @@
             "id": 1,
             "role": "Driver",
             "name": "احمد عبد البر محمود",
+            "avatar": "https://i.pravatar.cc/200",
             "password": "11111111111111",
             "phoneNumber": "01000000000"
         },
@@ -11,6 +12,7 @@
             "id": 2,
             "role": "Driver",
             "name": "محمود احمد محمد",
+            "avatar": "https://i.pravatar.cc/200",
             "password": "22222222222222",
             "phoneNumber": "01111111111"
         },
@@ -18,6 +20,7 @@
             "id": 3,
             "role": "Courier",
             "name": "احمد عبد البر محمود",
+            "avatar": "https://i.pravatar.cc/200",
             "password": "33333333333333",
             "phoneNumber": "01222222222"
         }
