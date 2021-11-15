@@ -34,7 +34,78 @@
                 "lng": "31.345921569577605"
             },
             "numberOfUnits": 300
+        },
+        {
+            "id": 2,
+            "userId": 3,
+            "status": "pending",
+            "factoryName": "مصنع موبكو لانتاج الاسمدة",
+            "factoryNumber": "01500000000",
+            "factoryAddress": {
+                "lat": "30.082923505665722",
+                "lng": "31.345921569577605"
+            },
+            "numberOfUnits": 300
+        },
+        {
+            "id": 3,
+            "userId": 3,
+            "status": "done",
+            "factoryName": "مصنع موبكو لانتاج الاسمدة",
+            "factoryNumber": "01500000000",
+            "factoryAddress": {
+                "lat": "30.082923505665722",
+                "lng": "31.345921569577605"
+            },
+            "numberOfUnits": 300
+        },
+        {
+            "id": 4,
+            "userId": 1,
+            "status": "new",
+            "outletNo": 3,
+            "outletAddress": {
+                "lat": "30.01",
+                "lng": "31.01"
+            },
+            "factoryName": "مصنع موبكو لانتاج الاسمدة",
+            "factoryAddress": {
+                "lat": "30.082923505665722",
+                "lng": "31.345921569577605"
+            },
+            "numberOfUnits": 55
+        },
+        {
+            "id": 5,
+            "userId": 1,
+            "status": "pending",
+            "outletNo": 3,
+            "outletAddress": {
+                "lat": "30.01",
+                "lng": "31.01"
+            },
+            "factoryName": "مصنع موبكو لانتاج الاسمدة",
+            "factoryAddress": {
+                "lat": "30.082923505665722",
+                "lng": "31.345921569577605"
+            },
+            "numberOfUnits": 55
+        },
+        {
+            "id": 6,
+            "userId": 1,
+            "status": "done",
+            "outletNo": 3,
+            "outletAddress": {
+                "lat": "30.01",
+                "lng": "31.01"
+            },
+            "factoryName": "مصنع موبكو لانتاج الاسمدة",
+            "factoryAddress": {
+                "lat": "30.082923505665722",
+                "lng": "31.345921569577605"
+            },
+            "numberOfUnits": 55
         }
-    ],
-    "bills": []
+    ]
 }
