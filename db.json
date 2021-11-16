@@ -56,6 +56,7 @@
             "id": 3,
             "userId": 3,
             "status": "done",
+            "distributionDate":"11-10-2021",
             "factoryName": "مصنع موبكو لانتاج الاسمدة",
             "factoryNumber": "01500000000",
             "factoryAddress": {
