@@ -6,7 +6,8 @@
             "name": "احمد عبد البر محمود",
             "avatar": "https://i.pravatar.cc/200",
             "password": "11111111111111",
-            "phoneNumber": "01000000000"
+            "phoneNumber": "01000000000",
+            "truckPlateNo": "مرسيدس نقل (ر ص ا - 2930)"
         },
         {
             "id": 2,
@@ -14,7 +15,8 @@
             "name": "محمود احمد محمد",
             "avatar": "https://i.pravatar.cc/200",
             "password": "22222222222222",
-            "phoneNumber": "01111111111"
+            "phoneNumber": "01111111111",
+            "truckPlateNo": "مرسيدس نقل (ر ع ب - 4820)"
         },
         {
             "id": 3,
