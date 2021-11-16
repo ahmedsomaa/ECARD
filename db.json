@@ -101,6 +101,7 @@
             "id": 6,
             "userId": 1,
             "status": "done",
+            "distributionDate": "2021-11-10",
             "outletNo": 3,
             "outletAddress": {
                 "lat": "30.01",
